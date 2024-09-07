@@ -4,7 +4,7 @@
 1. Start fKeys - Receiver binary on the PC that you want to receive the key inputs.
 2. Start fKeys - Sender on the PC which you want to send key inputs from.
 
-#Configuring fKeys - Sender
+# Configuring fKeys - Sender
 
 - Set the target IP
 - Click in the white box and press the keybind combination that you want to use
