@@ -1,0 +1,25 @@
+D:\Media\Programming\C#\WPF\fKeys - Receiver\fKeys - Receiver\fKeys - Receiver\bin\Debug\net6.0-windows\fKeys - Receiver.exe
+D:\Media\Programming\C#\WPF\fKeys - Receiver\fKeys - Receiver\fKeys - Receiver\bin\Debug\net6.0-windows\fKeys - Receiver.deps.json
+D:\Media\Programming\C#\WPF\fKeys - Receiver\fKeys - Receiver\fKeys - Receiver\bin\Debug\net6.0-windows\fKeys - Receiver.runtimeconfig.json
+D:\Media\Programming\C#\WPF\fKeys - Receiver\fKeys - Receiver\fKeys - Receiver\bin\Debug\net6.0-windows\fKeys - Receiver.dll
+D:\Media\Programming\C#\WPF\fKeys - Receiver\fKeys - Receiver\fKeys - Receiver\bin\Debug\net6.0-windows\ref\fKeys - Receiver.dll
+D:\Media\Programming\C#\WPF\fKeys - Receiver\fKeys - Receiver\fKeys - Receiver\bin\Debug\net6.0-windows\fKeys - Receiver.pdb
+D:\Media\Programming\C#\WPF\fKeys - Receiver\fKeys - Receiver\fKeys - Receiver\obj\Debug\net6.0-windows\fKeys - Receiver.csproj.AssemblyReference.cache
+D:\Media\Programming\C#\WPF\fKeys - Receiver\fKeys - Receiver\fKeys - Receiver\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Media\Programming\C#\WPF\fKeys - Receiver\fKeys - Receiver\fKeys - Receiver\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+D:\Media\Programming\C#\WPF\fKeys - Receiver\fKeys - Receiver\fKeys - Receiver\obj\Debug\net6.0-windows\App.g.cs
+D:\Media\Programming\C#\WPF\fKeys - Receiver\fKeys - Receiver\fKeys - Receiver\obj\Debug\net6.0-windows\fKeys - Receiver_MarkupCompile.cache
+D:\Media\Programming\C#\WPF\fKeys - Receiver\fKeys - Receiver\fKeys - Receiver\obj\Debug\net6.0-windows\fKeys - Receiver_MarkupCompile.lref
+D:\Media\Programming\C#\WPF\fKeys - Receiver\fKeys - Receiver\fKeys - Receiver\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Media\Programming\C#\WPF\fKeys - Receiver\fKeys - Receiver\fKeys - Receiver\obj\Debug\net6.0-windows\View\MainWindow.baml
+D:\Media\Programming\C#\WPF\fKeys - Receiver\fKeys - Receiver\fKeys - Receiver\obj\Debug\net6.0-windows\fKeys - Receiver.g.resources
+D:\Media\Programming\C#\WPF\fKeys - Receiver\fKeys - Receiver\fKeys - Receiver\obj\Debug\net6.0-windows\fKeys - Receiver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Media\Programming\C#\WPF\fKeys - Receiver\fKeys - Receiver\fKeys - Receiver\obj\Debug\net6.0-windows\fKeys - Receiver.AssemblyInfoInputs.cache
+D:\Media\Programming\C#\WPF\fKeys - Receiver\fKeys - Receiver\fKeys - Receiver\obj\Debug\net6.0-windows\fKeys - Receiver.AssemblyInfo.cs
+D:\Media\Programming\C#\WPF\fKeys - Receiver\fKeys - Receiver\fKeys - Receiver\obj\Debug\net6.0-windows\fKeys - Receiver.csproj.CoreCompileInputs.cache
+D:\Media\Programming\C#\WPF\fKeys - Receiver\fKeys - Receiver\fKeys - Receiver\obj\Debug\net6.0-windows\fKeys - Receiver.dll
+D:\Media\Programming\C#\WPF\fKeys - Receiver\fKeys - Receiver\fKeys - Receiver\obj\Debug\net6.0-windows\ref\fKeys - Receiver.dll
+D:\Media\Programming\C#\WPF\fKeys - Receiver\fKeys - Receiver\fKeys - Receiver\obj\Debug\net6.0-windows\fKeys - Receiver.pdb
+D:\Media\Programming\C#\WPF\fKeys - Receiver\fKeys - Receiver\fKeys - Receiver\obj\Debug\net6.0-windows\fKeys - Receiver.genruntimeconfig.cache
+D:\Media\Programming\C#\WPF\fKeys - Receiver\fKeys - Receiver\fKeys - Receiver\bin\Debug\net6.0-windows\WindowsInput.dll
+D:\Media\Programming\C#\WPF\fKeys - Receiver\fKeys - Receiver\fKeys - Receiver\obj\Debug\net6.0-windows\fKeys - Receiver.csproj.CopyComplete

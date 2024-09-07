@@ -1,0 +1,23 @@
+D:\Media\Programming\C#\WPF\fKeys - Sender\fKeys - Sender\fKeys - Sender\bin\Debug\net6.0-windows\fKeys - Sender.exe
+D:\Media\Programming\C#\WPF\fKeys - Sender\fKeys - Sender\fKeys - Sender\bin\Debug\net6.0-windows\fKeys - Sender.deps.json
+D:\Media\Programming\C#\WPF\fKeys - Sender\fKeys - Sender\fKeys - Sender\bin\Debug\net6.0-windows\fKeys - Sender.runtimeconfig.json
+D:\Media\Programming\C#\WPF\fKeys - Sender\fKeys - Sender\fKeys - Sender\bin\Debug\net6.0-windows\fKeys - Sender.dll
+D:\Media\Programming\C#\WPF\fKeys - Sender\fKeys - Sender\fKeys - Sender\bin\Debug\net6.0-windows\ref\fKeys - Sender.dll
+D:\Media\Programming\C#\WPF\fKeys - Sender\fKeys - Sender\fKeys - Sender\bin\Debug\net6.0-windows\fKeys - Sender.pdb
+D:\Media\Programming\C#\WPF\fKeys - Sender\fKeys - Sender\fKeys - Sender\obj\Debug\net6.0-windows\fKeys - Sender.csproj.AssemblyReference.cache
+D:\Media\Programming\C#\WPF\fKeys - Sender\fKeys - Sender\fKeys - Sender\obj\Debug\net6.0-windows\App.g.cs
+D:\Media\Programming\C#\WPF\fKeys - Sender\fKeys - Sender\fKeys - Sender\obj\Debug\net6.0-windows\fKeys - Sender_MarkupCompile.cache
+D:\Media\Programming\C#\WPF\fKeys - Sender\fKeys - Sender\fKeys - Sender\obj\Debug\net6.0-windows\fKeys - Sender_MarkupCompile.lref
+D:\Media\Programming\C#\WPF\fKeys - Sender\fKeys - Sender\fKeys - Sender\obj\Debug\net6.0-windows\fKeys - Sender.g.resources
+D:\Media\Programming\C#\WPF\fKeys - Sender\fKeys - Sender\fKeys - Sender\obj\Debug\net6.0-windows\fKeys - Sender.GeneratedMSBuildEditorConfig.editorconfig
+D:\Media\Programming\C#\WPF\fKeys - Sender\fKeys - Sender\fKeys - Sender\obj\Debug\net6.0-windows\fKeys - Sender.AssemblyInfoInputs.cache
+D:\Media\Programming\C#\WPF\fKeys - Sender\fKeys - Sender\fKeys - Sender\obj\Debug\net6.0-windows\fKeys - Sender.AssemblyInfo.cs
+D:\Media\Programming\C#\WPF\fKeys - Sender\fKeys - Sender\fKeys - Sender\obj\Debug\net6.0-windows\fKeys - Sender.csproj.CoreCompileInputs.cache
+D:\Media\Programming\C#\WPF\fKeys - Sender\fKeys - Sender\fKeys - Sender\obj\Debug\net6.0-windows\fKeys - Sender.dll
+D:\Media\Programming\C#\WPF\fKeys - Sender\fKeys - Sender\fKeys - Sender\obj\Debug\net6.0-windows\ref\fKeys - Sender.dll
+D:\Media\Programming\C#\WPF\fKeys - Sender\fKeys - Sender\fKeys - Sender\obj\Debug\net6.0-windows\fKeys - Sender.pdb
+D:\Media\Programming\C#\WPF\fKeys - Sender\fKeys - Sender\fKeys - Sender\obj\Debug\net6.0-windows\fKeys - Sender.genruntimeconfig.cache
+D:\Media\Programming\C#\WPF\fKeys - Sender\fKeys - Sender\fKeys - Sender\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+D:\Media\Programming\C#\WPF\fKeys - Sender\fKeys - Sender\fKeys - Sender\obj\Debug\net6.0-windows\View\MainWindow.baml
+D:\Media\Programming\C#\WPF\fKeys - Sender\fKeys - Sender\fKeys - Sender\obj\Debug\net6.0-windows\View\ChangeTargetWindow.g.cs
+D:\Media\Programming\C#\WPF\fKeys - Sender\fKeys - Sender\fKeys - Sender\obj\Debug\net6.0-windows\View\ChangeTargetWindow.baml

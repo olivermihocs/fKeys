@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "HC4bebL7DVL5LP2gxO8QcYORTntybVon4K3ygU6PN+sLVgK1IML+2JBfQC/uXFRsPJV7pSYPvXJ+tfFn3jgLvw==",
+  "success": true,
+  "projectFilePath": "D:\\Media\\Programming\\C#\\WPF\\fKeys - Receiver\\fKeys - Receiver\\fKeys - Receiver\\fKeys - Receiver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Olee\\.nuget\\packages\\inputsimulator\\1.0.4\\inputsimulator.1.0.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'InputSimulator 1.0.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "InputSimulator",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

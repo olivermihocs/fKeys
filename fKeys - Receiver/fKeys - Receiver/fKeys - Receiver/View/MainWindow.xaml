@@ -1,0 +1,27 @@
+﻿<Window x:Class="fKeys___Receiver.View.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:fKeys___Receiver.View"
+        mc:Ignorable="d"
+        Title="fKeys - Receiver 1.0.1 [freqVnc]" Height="130" Width="270" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Background="#282828">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="30" />
+        </Grid.RowDefinitions>
+        <GroupBox Margin="0" Grid.Column="0" Grid.Row="0" FontSize="14" FontWeight="Bold" Background="#282828" BorderThickness="0" Foreground="White" FontFamily="Tahoma" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                <TextBlock Text="IP: "></TextBlock>
+                <TextBlock Name="IP" Text="{Binding IPAddress}"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Margin="0" Grid.Column="0" Grid.Row="1" FontSize="14" FontWeight="Bold" Background="#282828" BorderThickness="0" Foreground="White" FontFamily="Tahoma" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Port: "/>
+                <TextBlock Name="Port" Text="{Binding Port}"/>
+            </StackPanel>
+        </GroupBox>
+    </Grid>
+</Window>
