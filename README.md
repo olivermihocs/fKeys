@@ -10,5 +10,5 @@
 - Click in the white box and press the keybind combination that you want to use
 - Click enable Hotkey (You can disable it any time)
 
-You only have to configure it once, since the keybind and the target IP are stored in `keybinds.cfg` and `target.cfg` in the sender's folder. 
+You only have to configure it once, since the keybind and the target IP are stored in `keybinds.cfg` and `target.cfg` in the sender's folder.</br>
 **Note** : Port 5005 is used by default, in order to change this, a rebuild is needed in this version.
